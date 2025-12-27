@@ -1,7 +1,7 @@
 # 🌐 Personal Portfolio Website - Thahira Shareen
 
 This is my personal **portfolio website**, built with **HTML, Tailwind CSS, and JavaScript**.  
-It showcases my **skills, education, projects, and work experience** in a modern, responsive, and professional layout.
+It showcases my **skills, education, projects, Internship** in a modern, responsive, and professional layout.
 
 ---
 
@@ -16,7 +16,7 @@ It showcases my **skills, education, projects, and work experience** in a modern
   - About Me  
   - Skills  
   - Education  
-  - Experience  
+  - Internship  
   - Projects  
   - Contact  
   - Footer with Back-to-Top link  
